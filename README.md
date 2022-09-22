@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bysve.
-- 👀 I’m interested in Java development.
-- 🌱 I’m currently learning Java Fundamentals in SoftUni.
-- 💞️ I’m looking to collaborate on java projects.
+- 👀 I’m interested in JavaScript software development.
+- 🌱 I’m currently learning JavaScript Fundamentals in SoftUni.
+- 💞️ I’m looking to collaborate on JS projects.
 - 📫 How to reach me: my email address is bysve@yahoo.com.
 
 <!---
