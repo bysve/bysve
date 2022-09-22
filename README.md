@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bysve.
+- 👋 Hi, I’m Svetlana Georgieva.
 - 👀 I’m interested in JavaScript software development.
 - 🌱 I’m currently learning JavaScript Fundamentals in SoftUni.
 - 💞️ I’m looking to collaborate on JS projects.
